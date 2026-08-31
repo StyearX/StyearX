@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Assets/StyearX-banner.svg" alt="StyearX" />
+  <img src="./Assets/StyearX-Banner.svg" alt="StyearX" />
 </p>
 
 <p align="center">
