@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://scriptblox.com/u/StyearX">
+  <a href="https://scriptblox.com/u/styear">
     <img src="./Fuck/scriptblox-button.svg" alt="ScriptBlox" />
   </a>
   <a href="https://rscripts.net/@StyearX">
