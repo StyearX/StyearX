@@ -44,7 +44,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/StyearX/StyearX/refs/heads/output/snake.svg"
+    src="https://raw.githubusercontent.com/StyearX/StyearX/refs/heads/main/Assets/snake.svg"
     alt="Snake animation"
   />
 </p>
