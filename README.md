@@ -12,10 +12,11 @@
 </p>
 
 <p align="center">
-  height="40" alt="Lua" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/luau-lang/site/master/logo.svg" height="40" alt="LuaU" />
 </p>
+
 
 ## GitHub Stats
 
