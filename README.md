@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="Lua" />
+  height="40" alt="Lua" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/luau-lang/site/master/logo.svg" height="40" alt="LuaU" />
 </p>
@@ -37,14 +37,5 @@
     width="96%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StyearX&theme=tokyonight&v=20260831025357"
     alt="Profile details"
-  />
-</p>
-
-## Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/StyearX/StyearX/refs/heads/main/Assets/snake.svg"
-    alt="Snake animation"
   />
 </p>
