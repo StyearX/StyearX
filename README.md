@@ -2,6 +2,8 @@
   <img src="./Assets/StyearX-Banner.svg" alt="StyearX" />
 </p>
 
+<h1 align="center">Hello, I'm <b>styear (StyearX)</b></h1>
+
 <p align="center">
   <a href="https://scriptblox.com/u/styear">
     <img src="./Fuck/scriptblox-button.svg" alt="ScriptBlox" />
@@ -41,8 +43,6 @@
   />
 </p>
 
-<h1 align="center">Hello, I'm <b>styear (StyearX)</b></h1>
-
 <p align="center">
   <img src="https://i.postimg.cc/MHYj91HJ/09ec22bfc5852787c6e5dffed3fba682.gif" width="300" style="border-radius: 15px;">
 </p>
@@ -53,6 +53,7 @@
 - I Write script and learn from others 
 - I am really bad at fixing bugs
 - I love Mobile Legend Bang Bang.
+---
 
 <p align="center">
   <img src="https://i.postimg.cc/sgMvhkY2/57d8ab0c8f1fe3ea38bccf4d684759c2.jpg" width="300" style="border-radius: 15px;">
