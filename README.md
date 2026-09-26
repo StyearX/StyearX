@@ -58,13 +58,6 @@
   <img src="https://i.postimg.cc/sgMvhkY2/57d8ab0c8f1fe3ea38bccf4d684759c2.jpg" width="300" style="border-radius: 15px;">
 </p>
 
-
-<p align="center">
-  <img src="https://i.postimg.cc/VLygBC4R/Frame-14.png" width="280" style="border-radius: 15px;">
-</p>
-
----
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/92/b0/73/92b073f449ddf0e7c0c21c72f09db7b8.gif" width="240">
 </p>
